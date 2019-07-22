@@ -6,4 +6,4 @@ permalink: /about/
 
 I'm a trader.
 
-email: inv3stninja[at]gmail.com
+email: inv3stninja@gmail.com
